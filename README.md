@@ -2,5 +2,6 @@
 
 Built a CNN Model to predict handwritten digits in Python.
 
-Library: Keras \n
+Library: Keras
+
 Dataset: THE MNIST DATABASE
