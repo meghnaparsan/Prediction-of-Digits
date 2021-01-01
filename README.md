@@ -1,3 +1,5 @@
 # Prediction-of-Digits
 
-A CNN Model to Predit Handwritten digits. (Using MNIST dataset) 
+Built a CNN Model to predict handwritten digits.
+
+Dataset: THE MNIST DATABASE
